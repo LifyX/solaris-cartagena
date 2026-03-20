@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { TikTokIcon } from "./TikTokIcon";
-import lifyxLogo from "../../assets/0b42223d9f55b7c8c03c00d28143a564ebd703f2.png";
-import solarisLogo from "../../assets/c76beadbf6b72572b306185aa05f3e4ac73c8e54.png";
+import lifyxLogo from "../assets/0b42223d9f55b7c8c03c00d28143a564ebd703f2.png";
+import solarisLogo from "../assets/c76beadbf6b72572b306185aa05f3e4ac73c8e54.png";
 import { Link } from "react-router";
 import { Button } from "./ui/button";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "./ui/dialog";

@@ -6,7 +6,7 @@ import { Button } from "./ui/button";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 import { useCart } from "../context/CartContext";
 import { useWishlist } from "../context/WishlistContext";
-import solarisLogo from "../../assets/c76beadbf6b72572b306185aa05f3e4ac73c8e54.png";
+import solarisLogo from "../assets/c76beadbf6b72572b306185aa05f3e4ac73c8e54.png";
 
 interface NavigationProps {
   t: any;
